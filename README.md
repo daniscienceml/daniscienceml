@@ -1,11 +1,8 @@
-<!-- GIF + Avatar + Intro -->
+<!-- GIF + Intro -->
 <table>
   <tr>
     <td width="160" valign="top" align="center">
-      <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="140" alt="AI Animation" />
-    </td>
-    <td width="160" valign="top" align="center">
-      <img src="assets/avatar.png" alt="Danyal Malik avatar" width="140" style="border-radius:50%;" />
+      <img src="https://raw.githubusercontent.com/daniscienceml/daniscienceml/main/200.webp" width="160" alt="AI Animation" />
     </td>
     <td valign="top">
       <h1 style="margin:0">Danyal Malik (Dani-Science) — AI & LLM Specialist</h1>
@@ -30,6 +27,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
