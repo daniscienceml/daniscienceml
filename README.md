@@ -1,128 +1,88 @@
-<!-- Banner (replace the image URL with your custom banner) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daniscienceml/daniscienceml/main/assets/banner-ai.png" alt="Danyal Malik — AI & LLM Specialist" width="100%" />
+  <img src="assets/banner_gradient_variant_purple_1200x300.png" alt="Danyal Malik — AI & LLM Specialist" width="100%" />
 </p>
 
-<h1 align="center">Danyal Malik (Dani-Science) — AI & LLM Specialist</h1>
+<!-- GIF + Avatar + Intro -->
+<table>
+  <tr>
+    <td width="140" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRuYTBueDNuemQ0OTJ0eTQ0bWxoNHJiM3lpOTJyem5vNWU5Yzl0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dzaUX7CAG0Ihi/giphy.gif" width="120" alt="AI Animation" />
+    </td>
+    <td width="140" valign="top">
+      <img src="assets/avatar.png" alt="Danyal Malik avatar" width="120" style="border-radius:50%;" />
+    </td>
+    <td valign="top">
+      <h1 style="margin:0">Danyal Malik (Dani-Science) — AI & LLM Specialist</h1>
+      <p style="margin:6px 0 0 0; font-size:110%;">
+        <strong>LLM & AI Specialist · Machine Learning & Data Science Practitioner · Researcher & Writer</strong><br/>
+        Springer-published researcher · Kaggle competitions expert · Building production-ready ML & LLM solutions.
+      </p>
 
-<p align="center">
-  <strong>LLM & AI Specialist | ML & Data Science Practitioner | Researcher & Technical Writer</strong><br/>
-  <em>Springer-published researcher • Kaggle competitions expert • Building production-ready ML & LLM solutions</em>
-</p>
+      <p style="margin:8px 0 0 0;">
+        <img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat-square" alt="Resume" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+        <img src="https://img.shields.io/badge/Python-3.8|3.9|3.10-blue?style=flat-square" alt="Python" />
+        <img src="https://img.shields.io/badge/HuggingFace-Model-orange?style=flat-square" alt="Hugging Face" />
+      </p>
 
-<p align="center">
-  <!-- Contact / quick links -->
-  <a href="https://www.linkedin.com/in/danyal-ai/" target="_blank">LinkedIn</a> •
-  <a href="https://scholar.google.co.uk/citations?hl=en&user=ngRPipAAAAAJ" target="_blank">Google Scholar</a> •
-  <a href="https://orcid.org/0009-0003-2897-4157" target="_blank">ORCID</a> •
-  <a href="mailto:dani.ai.practitioner@gmail.com">Email</a> •
-  <a href="https://www.springer.com" target="_blank">Springer Publications</a>
-</p>
-
----
-
-## 🔎 About
-I design and build real-world AI/ML systems — from research-grade models to production pipelines. My work spans large language models (LLMs), deep learning, computer vision, and applied data science. I publish research (Springer), actively participate in Kaggle competitions, and contribute code and models to open-source ecosystems.
-
----
-
-## 🛠️ Core Skills & Tools
-
-**Languages:** Python, R (basic), SQL  
-**ML / DL:** Transformers (Hugging Face), TensorFlow, Keras, PyTorch, Scikit-learn  
-**Data & Viz:** Pandas, NumPy, Plotly, Power BI  
-**Deployment & Cloud:** Docker, Streamlit, Gradio, AWS, Azure, TensorFlow Serving  
-**Research & Writing:** Technical writing, literature review, experiments, publications  
-**Other:** Git, GitHub Actions, Hugging Face Hub
-
----
-
-## 🚀 Projects — quick access
-> (Each entry below should link to its repository. Create repos with these names or update the links.)
-
-### Professional / Advanced
-- **`medical-image-segmentation`** — Medical image segmentation pipeline (U-Net / EfficientNet variants). Dataset prep → training → inference → dockerized service.  
-- **`llm-finetuning-pipeline`** — Fine-tune LLMs for domain-specific summarization and retrieval-augmented generation (RAG).  
-- **`production-ml-pipeline`** — CI/CD, model validation, monitoring and deployment (Docker + TF Serving / FastAPI).
-
-### Intermediate
-- **`nlp-text-summarization`** — Abstractive summarizer with transformer-based models and evaluation scripts.  
-- **`document-classifier`** — AI-powered document classification web app (Streamlit + Hugging Face).  
-- **`time-series-forecasting`** — ARIMA + ML residual-correction hybrids; reproducible experiments.
-
-### Beginner / Learning
-- **`deep-learning-capstone`** — CNN classification notebooks, experiments and visualization.  
-- **`rl-spacecraft-landing`** — Reinforcement Learning experiments in Gym environment (teaching resource).
-
-### Kaggle & Competition Work
-- **`kaggle-competition-1`** — Competition notebooks, baseline models & final ensemble.  
-- **`kaggle-refs`** — Reproducible kernels and writeups, evaluation pipelines, notes on feature engineering.
+      <p style="margin:6px 0 0 0;">
+        <a href="https://www.linkedin.com/in/danyal-ai/" target="_blank">LinkedIn</a> ·
+        <a href="https://scholar.google.co.uk/citations?hl=en&user=ngRPipAAAAAJ" target="_blank">Google Scholar</a> ·
+        <a href="https://orcid.org/0009-0003-2897-4157" target="_blank">ORCID</a> ·
+        <a href="mailto:dani.ai.practitioner@gmail.com">Email</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📚 Publications & Writing
-- Chapters & papers in Springer (highlighted).  
-- Research on "Quantify Risk in AI" and contributions to edited volumes (IGI/Wiley chapters listed in CV).  
-- Conference & journal work (see Google Scholar / Springer links above for full list).
+## Quick Overview
+I design and build research-driven AI systems and production ML pipelines.  
+My expertise: LLMs, deep learning, computer vision, and applied data science.  
+I publish research, compete on Kaggle, and deliver reproducible open-source work.
 
 ---
 
-## 🎓 Certifications
+## Core Skills & Tools
+**Languages:** Python · R (basic) · SQL  
+**ML / DL:** Transformers · TensorFlow · PyTorch · Keras · Scikit-learn  
+**Data & Viz:** Pandas · NumPy · Plotly · Power BI  
+**Deployment & Cloud:** Docker · Streamlit · Gradio · AWS · Azure · TF Serving · FastAPI
+
+---
+
+## Key Projects
+- **`llm-finetuning-pipeline`** — Fine-tuning & RAG for domain LLMs.  
+- **`production-ml-pipeline`** — Production CI/CD, monitoring, deployment.  
+- **`medical-image-segmentation`** — U-Net / EfficientNet pipelines & deploy.  
+- **`nlp-text-summarization`** — Transformer-based summarizer + demo.  
+- **`kaggle-competition-1`** — Reproducible notebooks, ensemble, writeup.  
+- **`document-classifier`** — Streamlit document classifier demo.
+
+---
+
+## Publications (Selected)
+Full list and BibTeX: [PUBLICATIONS.md](./PUBLICATIONS.md)
+
+- *Real-World Deployments in Unmanned Aerial Vehicle Swarms* — Apress / Springer. DOI: `https://doi.org/10.1007/979-8-8688-1047-3_3`  
+- *Cyber Security Framework for AI-Enabled Robotics and Drone Systems* — IGI Global. `https://www.igi-global.com/chapter/.../377761`  
+- More entries in PUBLICATIONS.md
+
+---
+
+## Certifications
 - TensorFlow Developer Professional  
 - IBM Data Science / ML Specialization  
-- Deep Learning Specialization (Coursera)  
-(Links to certificate pages can be added per certification.)
+- Deep Learning Specialization (Coursera)
 
 ---
 
-## 📈 GitHub Stats & Activity
+## Contact & Collaboration
+Open to research collaborations, consulting, and Kaggle mentoring.  
 
-<!-- GitHub README stats: replace username parameter if needed -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniscienceml&show_icons=true&count_private=true&theme=default" alt="Danyal's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniscienceml&layout=compact" alt="Top languages" />
-</p>
-
-<!-- Activity graph / contribution calendar (service placeholder) -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=daniscienceml&area=true&color=ff69b4" alt="contributions graph"/>
-</p>
-
-<!-- Streak stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniscienceml&theme=default" alt="streak stats" />
-</p>
-
----
-
-## 🔗 Open-source & Model Hub
-I publish models and demos to the Hugging Face Hub and maintain reproducible notebooks for my published work. See the `huggingface-*` repos for model cards and demo apps.
-
----
-
-## 📫 Contact & Collaboration
-I’m open to research collaborations, freelance consulting, and mentoring for Kaggle competitions.  
-- **Email:** dani.ai.practitioner@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/danyal-ai/  
-- **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ngRPipAAAAAJ  
-- **ORCID:** https://orcid.org/0009-0003-2897-4157
-
----
-
-## 🧭 How you can help / what I welcome
-- ⭐ Star & follow if you'd like to see reproducible ML experiments.  
-- 📨 Reach out for collaboration or research questions.  
-- 🛠️ Contributions to my projects are always welcome — open issues or submit PRs.
-
----
-
-## ⚙️ How to use / customize this README
-1. Replace the banner image: add a file to `assets/banner-ai.png` in this repo or link an external image.  
-2. Update project repo links to your actual repository names.  
-3. Update the GitHub Stats widgets if your username changes.  
-4. Pin the top 6 repos (Profile → Customize profile → Pinned repositories) that you want visitors to see first.  
-5. Add `badges` (CI, license, downloads) to each project README.
-
----
-
-**Made with ❤️ by Danyal Malik — keeping AI research open, reproducible & production-ready.**
+📧 **Email:** dani.ai.practitioner@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/danyal-ai](https://www.linkedin.com/in/danyal-ai/)  
+📚 **Google Scholar:** [Google Scholar Profile](https://scholar.google.co.uk/citations?hl=en&user=ngRPipAAAAAJ)  
+🆔 **ORCID:** [0009-0003-2897-4157](https://orcid.org/0009-0003-2897-4157)
