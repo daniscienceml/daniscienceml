@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner_gradient_variant_purple_1200x300.png" alt="Danyal Malik — AI & LLM Specialist" width="100%" />
-</p>
-
 <!-- GIF + Avatar + Intro -->
 <table>
   <tr>
@@ -60,15 +55,6 @@ I publish research, compete on Kaggle, and deliver reproducible open-source work
 - **`nlp-text-summarization`** — Transformer-based summarizer + demo.  
 - **`kaggle-competition-1`** — Reproducible notebooks, ensemble, writeup.  
 - **`document-classifier`** — Streamlit document classifier demo.
-
----
-
-## Publications (Selected)
-Full list and BibTeX: [PUBLICATIONS.md](./PUBLICATIONS.md)
-
-- *Real-World Deployments in Unmanned Aerial Vehicle Swarms* — Apress / Springer. DOI: `https://doi.org/10.1007/979-8-8688-1047-3_3`  
-- *Cyber Security Framework for AI-Enabled Robotics and Drone Systems* — IGI Global. `https://www.igi-global.com/chapter/.../377761`  
-- More entries in PUBLICATIONS.md
 
 ---
 
