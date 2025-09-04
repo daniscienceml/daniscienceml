@@ -1,8 +1,8 @@
 <!-- GIF + Intro -->
 <table>
   <tr>
-    <td width="160" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/daniscienceml/daniscienceml/main/200.webp" width="160" alt="AI Animation" />
+    <td width="500" valign="top" align="center">
+      <img src="200.webp" width="500" alt="AI Animation" />
     </td>
     <td valign="top">
       <h1 style="margin:0">Danyal Malik (Dani-Science) — AI & LLM Specialist</h1>
@@ -11,23 +11,32 @@
         Springer-published researcher · Kaggle competitions expert · Building production-ready ML & LLM solutions.
       </p>
 
-      <p style="margin:8px 0 0 0;">
-        <img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat-square" alt="Resume" />
-        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
-        <img src="https://img.shields.io/badge/Python-3.8|3.9|3.10-blue?style=flat-square" alt="Python" />
-        <img src="https://img.shields.io/badge/HuggingFace-Model-orange?style=flat-square" alt="Hugging Face" />
-      </p>
+  <p align="left">
+  <a href="YOUR_CV_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat-square" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/danyal-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.co.uk/citations?hl=en&user=ngRPipAAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Profile-darkblue?style=flat-square&logo=google-scholar" alt="Google Scholar" />
+  </a>
+  <a href="https://orcid.org/0009-0003-2897-4157" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0003--2897--4157-green?style=flat-square&logo=orcid" alt="ORCID" />
+  </a>
+  <a href="https://www.kaggle.com/muhammaddanyalmalik" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Competitions-blue?style=flat-square&logo=kaggle" alt="Kaggle" />
+  </a>
+  <a href="mailto:dani.ai.practitioner@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/daniscienceml" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-      <p style="margin:6px 0 0 0;">
-        <a href="https://www.linkedin.com/in/danyal-ai/" target="_blank">LinkedIn</a> ·
-        <a href="https://scholar.google.co.uk/citations?hl=en&user=ngRPipAAAAAJ" target="_blank">Google Scholar</a> ·
-        <a href="https://orcid.org/0009-0003-2897-4157" target="_blank">ORCID</a> ·
-        <a href="mailto:dani.ai.practitioner@gmail.com">Email</a>
-      </p>
-    </td>
   </tr>
 </table>
-
 
 ---
 
@@ -39,7 +48,7 @@ I publish research, compete on Kaggle, and deliver reproducible open-source work
 ---
 
 ## Core Skills & Tools
-**Languages:** Python · R (basic) · SQL  
+**Languages:** Python · R · SQL  
 **ML / DL:** Transformers · TensorFlow · PyTorch · Keras · Scikit-learn  
 **Data & Viz:** Pandas · NumPy · Plotly · Power BI  
 **Deployment & Cloud:** Docker · Streamlit · Gradio · AWS · Azure · TF Serving · FastAPI
@@ -66,7 +75,7 @@ I publish research, compete on Kaggle, and deliver reproducible open-source work
 ## Contact & Collaboration
 Open to research collaborations, consulting, and Kaggle mentoring.  
 
-📧 **Email:** dani.ai.practitioner@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/danyal-ai](https://www.linkedin.com/in/danyal-ai/)  
-📚 **Google Scholar:** [Google Scholar Profile](https://scholar.google.co.uk/citations?hl=en&user=ngRPipAAAAAJ)  
-🆔 **ORCID:** [0009-0003-2897-4157](https://orcid.org/0009-0003-2897-4157)
+📧 [**Email**](dani.ai.practitioner@gmail.com)  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/danyal-ai/)  
+📚 [**Google Scholar**](https://scholar.google.co.uk/citations?hl=en&user=ngRPipAAAAAJ)  
+🆔 [**ORCID**](https://orcid.org/0009-0003-2897-4157)
