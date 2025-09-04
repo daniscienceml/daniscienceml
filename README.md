@@ -1,11 +1,11 @@
 <!-- GIF + Avatar + Intro -->
 <table>
   <tr>
-    <td width="140" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRuYTBueDNuemQ0OTJ0eTQ0bWxoNHJiM3lpOTJyem5vNWU5Yzl0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dzaUX7CAG0Ihi/giphy.gif" width="120" alt="AI Animation" />
+    <td width="160" valign="top" align="center">
+      <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="140" alt="AI Animation" />
     </td>
-    <td width="140" valign="top">
-      <img src="assets/avatar.png" alt="Danyal Malik avatar" width="120" style="border-radius:50%;" />
+    <td width="160" valign="top" align="center">
+      <img src="assets/avatar.png" alt="Danyal Malik avatar" width="140" style="border-radius:50%;" />
     </td>
     <td valign="top">
       <h1 style="margin:0">Danyal Malik (Dani-Science) — AI & LLM Specialist</h1>
